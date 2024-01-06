@@ -24,3 +24,4 @@ Este é um projeto simples que utiliza um sensor de luz LDR em conjunto com uma 
 - O monitor serial exibirá as leituras do sensor.
 
 
+![image](https://github.com/Edmilsonhdr/LDR_Sensor/assets/92001139/794e0c1d-e834-4285-95f8-3600d70358d8)
